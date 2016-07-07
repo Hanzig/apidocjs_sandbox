@@ -1,0 +1,23 @@
+{
+  "name": "apidoc_example",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "apidoc": {
+    "name": "apiDoc example",
+    "version": "0.2.0",
+    "description": "apiDoc example",
+    "title": "apiDoc example"
+  },
+  "devDependencies": {
+    "apidoc": "^0.16.1",
+    "grunt": "^1.0.1",
+    "grunt-apidoc": "^0.11.0",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-env": "^0.4.4",
+    "grunt-nodemon": "^0.4.2",
+    "nodemon": "^1.9.2"
+  }
+}
